@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ## **Patryk Rzucidło (@PTKDev)**
 
@@ -30,4 +30,4 @@ I'm trying to get rich with free and open source software.
 | JSON Token Replace | ![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6) | 🐾 Replace token string {{name}} in json with values from another json where key is token | <table style="border: 0px solid #fff !important;"><tr style="border: 0px solid #fff !important;"><td style="border: 0px solid #fff !important;"> [![](https://img.shields.io/badge/--%20?style=flat&logo=github&logoColor=black&color=white)]() </td><td style="border: 0px solid #fff !important;"> [![](https://img.shields.io/badge/--%20?style=flat&logo=npm&logoColor=white&color=white)]() </td><td style="border: 0px solid #fff !important;"> [![](https://img.shields.io/badge/-🌎-%20?style=flat&logoColor=black&color=white)]() </td></tr></table>   | 
 | ESLint: snakecasejs | ![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6) | 🐍 ESLint Plugin: enforce snake_case syntax on variables and function names | <table style="border: 0px solid #fff !important;"><tr style="border: 0px solid #fff !important;"><td style="border: 0px solid #fff !important;"> [![](https://img.shields.io/badge/--%20?style=flat&logo=github&logoColor=black&color=white)]() </td><td style="border: 0px solid #fff !important;"> [![](https://img.shields.io/badge/--%20?style=flat&logo=npm&logoColor=white&color=white)]() </td><td style="border: 0px solid #fff !important;"> [![](https://img.shields.io/badge/-🌎-%20?style=flat&logoColor=black&color=white)]() </td></tr></table>   | 
 
-</z>
+</div>
