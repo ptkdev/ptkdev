@@ -48,7 +48,7 @@ List of projects I made with love
 List of projects I have contributed
 
 | Name | Category | Description | Links |
-| --- | --- | --- | --- | 
+| --- | :---: | --- | --- | 
 | <a href="https://github.com/markserv/markserv"><b>Markserv</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 🏁 Serve markdown as html (GitHub style) | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/markserv/markserv) </td></tr></table> |  
 | <a href="https://github.com/gajus/eslint-plugin-jsdoc"><b>ESLint: JSDoc</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 📖 JSDoc specific linting rules for ESLint. | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/gajus/eslint-plugin-jsdoc) </td></tr></table> |  
 | <a href="https://github.com/emres/youtube2mp3"><b>Youtube2mp3</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 🎧 A very simple system to download YouTube music videos and convert them to mp3 files | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emres/youtube2mp3) </td></tr></table> |  
