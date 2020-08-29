@@ -23,7 +23,7 @@ I'm trying to get rich with free and open source software.
 List of projects I made with love
 
 | Name | Category | Description | Links |
-| --- | --- | --- | --- | 
+| --- | :---: | --- | --- | 
 | <a href="https://ptk.dev"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | 🧙‍♂️ My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://ptk.dev)  </td></tr></table> | 
 | <a href="https://github.com/ptkdev/ptkdev-logger"><b>Logger</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 🦒 Beautiful Logger for Node.js: the best alternative to the console.log statement | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/ptkdev/ptkdev-logger) </td><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=npm&logoColor=white&color=white)](https://npmjs.com/package/@ptkdev/logger) </td></tr></table> | 
 | <a href="https://github.com/ptkdev/all-shields-cli"><b>All Shields CLI</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 🦌 Tool to help automate your badges from dotfiles for your markdown.  | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/ptkdev/all-shields-cli) </td><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=npm&logoColor=white&color=white)](https://www.npmjs.com/package/@ptkdev/all-shields-cli) </td></tr></table> | 
