@@ -18,6 +18,11 @@ I'm trying to get rich with free and open source software.
 
 <hr>
 
+## Stats
+
+[![ptkdev's github stats](https://github-readme-stats.vercel.app/api?username=ptkdev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## **Projects**
 
 List of projects I made with love
