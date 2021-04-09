@@ -67,9 +67,9 @@ Why donate? I work on several opensource project in my spare time and try to kee
 🙇‍♂️ **THANK YOU!** 🙇‍♂️
 
 <!-- all-shields/sponsors-badges:START -->
-[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=flat&logo=paypal)](https://www.paypal.me/ptkdev) [![Donate Ko-Fi](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?style=flat&logo=ko-fi)](https://ko-fi.com/ptkdev) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=flat&logo=github)](https://github.com/sponsors/ptkdev) [![Donate Patreon](https://img.shields.io/badge/donate-patreon-F87668.svg?style=flat&logo=patreon)](https://www.patreon.com/ptkdev) 
+[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=for-the-badge&logo=paypal)](https://www.paypal.me/ptkdev) [![Donate Ko-Fi](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/ptkdev) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=for-the-badge&logo=github)](https://github.com/sponsors/ptkdev) [![Donate Patreon](https://img.shields.io/badge/donate-patreon-F87668.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/ptkdev) 
 
-[![Donate Bitcoin](https://img.shields.io/badge/donate-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg?style=flat&logo=bitcoin)]() [![Donate Ethereum](https://img.shields.io/badge/donate-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg?style=flat&logo=ethereum)]() 
+[![Donate Bitcoin](https://img.shields.io/badge/donate-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg?style=for-the-badge&logo=bitcoin)]() [![Donate Ethereum](https://img.shields.io/badge/donate-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg?style=for-the-badge&logo=ethereum)]() 
 <!-- all-shields/sponsors-badges:END -->
 
 ## 👑 Backers and Sponsors
