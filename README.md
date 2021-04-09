@@ -74,7 +74,7 @@ Why donate? I work on several opensource project in my spare time and try to kee
 
 ## 👑 Backers and Sponsors
 
-Thanks to all our backers! 🙏 Donate 3$ or more on [paypal](https://www.patreon.com/join/ptkdev), [ko-fi](https://www.patreon.com/join/ptkdev), [github](https://www.patreon.com/join/ptkdev) or [patreon](https://www.patreon.com/join/ptkdev) and send me [email](mailto:support@ptkdev.io) with your avatar and url.
+Thanks to all our backers! 🙏 Donate 3$ or more on [paypal](https://www.paypal.me/ptkdev), [ko-fi](https://ko-fi.com/ptkdev), [github](https://github.com/sponsors/ptkdev) or [patreon](https://www.patreon.com/join/ptkdev) and send me [email](mailto:support@ptkdev.io) with your avatar and url.
 
 </div>
 
