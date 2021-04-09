@@ -58,12 +58,11 @@ List of projects I have contributed
 | <a href="https://postinstagrammabili.it/"><b>PostInstagrammabili</b></a> | [![](https://img.shields.io/badge/🎨-%20Themes-informational?style=flat&logoColor=white&color=f1c40f)]() <br> [![](https://img.shields.io/badge/🤖-%20Bot-informational?style=flat&logoColor=white&color=34495e)]() | 🌅 Telegram bot and Wordpress theme for posti instagrammabili | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=telegram&logoColor=black&color=white)](https://t.me/postinstagrammabilibot) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://postinstagrammabili.it/) </td></tr></table> |  
 
 
-
 ## 🎁 Donate:
 
-My projects are **free**, **open source** and I try to provide excellent **free support**. 
+My projects are __**free**__, __**open source**__ and I try to provide excellent __**free support**__. 
 
-> Why donate? I work on several opensource project in my spare time and try to keep it up to date and working. 
+Why donate? I work on several opensource project in my spare time and try to keep it up to date and working. 
 
 🙇‍♂️ **THANK YOU!** 🙇‍♂️
 
