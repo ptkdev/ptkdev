@@ -58,13 +58,15 @@ List of projects I have contributed
 | <a href="https://www.smodatamente.it/"><b>Smodatamente</b></a> | [![](https://img.shields.io/badge/🎨-%20Themes-informational?style=flat&logoColor=white&color=f1c40f)]()  <br> [![](https://img.shields.io/badge/🤖-%20Bot-informational?style=flat&logoColor=white&color=34495e)]() | 👠 Telegram bot and Wordpress theme for smodatamente | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=telegram&logoColor=black&color=white)](https://t.me/Smodatamentebot) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.smodatamente.it/) </td></tr></table> |
 | <a href="https://postinstagrammabili.it/"><b>PostInstagrammabili</b></a> | [![](https://img.shields.io/badge/🎨-%20Themes-informational?style=flat&logoColor=white&color=f1c40f)]() <br> [![](https://img.shields.io/badge/🤖-%20Bot-informational?style=flat&logoColor=white&color=34495e)]() | 🌅 Telegram bot and Wordpress theme for posti instagrammabili | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=telegram&logoColor=black&color=white)](https://t.me/postinstagrammabilibot) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://postinstagrammabili.it/) </td></tr></table> |
 
-<hr>
-
 ## 🍻 **Community**
 
 | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_discord.png" height="16px"> Discord | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_telegram.png" height="16px"> Telegram | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_twitter.png" height="16px"> Twitter |
 | :---: | :---: | :---: |
-| [🇬🇧 Telegram English](http://t.me/ptkdev_support) [🇮🇹 Telegram Italian](http://t.me/ptkdev_support_italian) | [🇬🇧 Discord English](https://discord.gg/jqUSGPKdmA) [🇮🇹 Discord Italian](https://discord.gg/SJFcbvG6RU) [🇵🇱 Discord Polish](https://discord.gg/25vg4VFhb7)) | [🇬🇧 Twitter English](http://twitter.com/ptkdevio) |
+| [🇬🇧 Telegram English](http://t.me/ptkdev_support) | [🇬🇧 Discord English](https://discord.gg/jqUSGPKdmA) | [🇬🇧 Twitter English](http://twitter.com/ptkdevio) |
+| [🇮🇹 Telegram Italian](http://t.me/ptkdev_support_italian) | [🇮🇹 Discord Italian](https://discord.gg/SJFcbvG6RU)| |
+| | [🇵🇱 Discord Polish](https://discord.gg/25vg4VFhb7) | |
+
+<hr>
 
 ## 🎁 Donate:
 
