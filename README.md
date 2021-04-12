@@ -62,11 +62,9 @@ List of projects I have contributed
 
 ## 🍻 **Community**
 
-| <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_discord.png" height="18px"> Discord | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_telegram.png" height="18px"> Telegram | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_twitter.png" height="18px"> Twitter |
+| <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_discord.png" height="16px"> Discord | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_telegram.png" height="16px"> Telegram | <img src="https://raw.githubusercontent.com/ptkdev/ptkdev/main/.github/assets/social_twitter.png" height="16px"> Twitter |
 | :---: | :---: | :---: |
 | [🇬🇧 Telegram English](http://t.me/ptkdev_support) [🇮🇹 Telegram Italian](http://t.me/ptkdev_support_italian) | [🇬🇧 Discord English](https://discord.gg/jqUSGPKdmA) [🇮🇹 Discord Italian](https://discord.gg/SJFcbvG6RU) [🇵🇱 Discord Polish](https://discord.gg/25vg4VFhb7)) | [🇬🇧 Twitter English](http://twitter.com/ptkdevio) |
-
-<hr>
 
 ## 🎁 Donate:
 
