@@ -118,11 +118,3 @@ npm-debug.log
 
 # Husky #
 /.husky/_/
-
-# App #
-#######
-/app/configs/config.js
-/app/configs/config.ts
-/extra
-/dist
-/build
