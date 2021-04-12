@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👨‍💻 **Patryk Rzucidło (@PTKDev)**
+# 👨‍💻 **Patryk Rzucidło (@PTKDev)**
 
 I'm trying to get rich with free and open source software.
 
@@ -19,7 +19,7 @@ I'm trying to get rich with free and open source software.
 
 <hr>
 
-## 🚀 **Projects**
+# 🚀 **Projects**
 
 List of projects I made with love
 
@@ -46,7 +46,7 @@ List of projects I made with love
 
 <hr>
 
-## 🤝 **Contributions**
+# 🤝 **Contributions**
 
 List of projects I have contributed
 
