@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 **Patryk Rzucidło (@PTKDev)**
+# 👨‍💻 **Patryk Rzucidło (@PTKDev)** 👨‍💻
 
 I'm trying to get rich with free and open source software.
 
@@ -19,7 +19,7 @@ I'm trying to get rich with free and open source software.
 
 <hr>
 
-# 🚀 **Projects**
+# 🚀 **Projects** 🚀
 
 List of projects I made with love
 
@@ -46,7 +46,7 @@ List of projects I made with love
 
 <hr>
 
-# 🤝 **Contributions**
+# 🤝 **Contributions** 🤝
 
 List of projects I have contributed
 
@@ -68,7 +68,7 @@ List of projects I have contributed
 
 <hr>
 
-# 🎁 Donate:
+# 🎁 Donate 🎁
 
 My projects are __**free**__, __**open source**__ and I try to provide excellent __**free support**__.
 
@@ -80,7 +80,7 @@ Why donate? I work on several opensource project in my spare time and try to kee
 [![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=for-the-badge&logo=paypal)](https://www.paypal.me/ptkdev) [![Donate Ko-Fi](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/ptkdev) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=for-the-badge&logo=github)](https://github.com/sponsors/ptkdev) [![Donate Patreon](https://img.shields.io/badge/donate-patreon-F87668.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/ptkdev) [![Donate Bitcoin](https://img.shields.io/badge/BTC-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg?style=flat-square&logo=bitcoin)](https://ptk.dev/img/icons/menu/bitcoin_wallet.png) [![Donate Ethereum](https://img.shields.io/badge/ETH-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg?style=flat-square&logo=ethereum)](https://ptk.dev/img/icons/menu/ethereum_wallet.png)
 <!-- all-shields/sponsors-badges:END -->
 
-## 👑 Backers and Sponsors
+## 👑 Backers and Sponsors 👑
 
 Thanks to all our backers! 🙏 Donate 3$ or more on [paypal](https://www.paypal.me/ptkdev), [ko-fi](https://ko-fi.com/ptkdev), [github](https://github.com/sponsors/ptkdev) or [patreon](https://www.patreon.com/join/ptkdev) and send me [email](mailto:support@ptkdev.io) with your avatar and url.
 
